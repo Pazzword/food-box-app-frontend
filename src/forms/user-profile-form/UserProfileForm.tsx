@@ -12,7 +12,7 @@ import {
     FormMessage} from "@/components/ui/form";
 import LoadingButton from "@/components/LoadingButton";
 import { Button } from "@/components/ui/button";
-import { User } from "@/type";
+import { User } from "@/types";
 import { useEffect } from "react";
 
 const formSchema = z.object({
