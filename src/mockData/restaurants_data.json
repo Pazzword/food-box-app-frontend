@@ -496,7 +496,7 @@
   "deliveryPrice": 100,
   "estimatedDeliveryTime": 38,
   "cuisines": [
-    "Cafe",
+    "Halal",
     "Salads",
     "Tacos",
     "Desserts"
@@ -552,7 +552,7 @@
   "deliveryPrice": 141,
   "estimatedDeliveryTime": 51,
   "cuisines": [
-    "Tacos",
+    "Halal",
     "Sushi",
     "Spanish",
     "Chinese"
@@ -667,7 +667,7 @@
     "Salads",
     "Steak",
     "Organic",
-    "Pasta"
+    "Halal"
   ],
   "menuItems": [
     {
@@ -722,7 +722,7 @@
   "cuisines": [
     "Japanese",
     "Breakfast",
-    "French",
+    "Halal",
     "Chinese"
   ],
   "menuItems": [
