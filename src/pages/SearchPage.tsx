@@ -68,7 +68,8 @@ const SearchPage = () => {
   };
 
   if (isLoading) {
-    return <span>Loading ...</span>;
+    return <span>Loading ...This version is currently 
+      deployed on free ONRENDER account which casuses loading delays. Production version runs much faster.</span>;
   }
 
   if (!results?.data || !city) {
